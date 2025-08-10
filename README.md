@@ -45,6 +45,8 @@ IRCC_Chatbot/
 │── README.md # Project documentation
 ```
 
+---
+
 ## 🚀 Installation  
 
 1️⃣ **Clone the repository**  
@@ -72,6 +74,8 @@ python scripts/extract_text_from_pdf.py
 streamlit run chatbot_rag.py
 ```
 
+---
+
 ## 💡 Usage
 - Ask any IRCC-related question in the chat.
 - The bot retrieves relevant chunks from its knowledge base and formulates an answer.
@@ -81,6 +85,8 @@ Example:
 You: What is the processing time for a study permit?  
 Bot: Based on the provided IRCC guidelines, study permit processing times vary depending on your country. Please refer to the official IRCC website for the most recent updates.
 ```
+
+---
 
 ## 📊 Future Improvements
 - Support larger open-source models like Mistral or LLaMA.
