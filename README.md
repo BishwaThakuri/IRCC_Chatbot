@@ -1,6 +1,4 @@
-# Let's create the README.md file with the badge section included.
-
-readme_content = """# IRCC Chatbot 🤖  
+# IRCC Chatbot 🤖  
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)  
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://streamlit.io/)  
 [![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow)](https://huggingface.co/)  
