@@ -7,7 +7,7 @@ tqdm       # Progress bars
 
 # ==== Embeddings & Vector Store ====
 sentence-transformers  # Embeddings model
-faiss-cpu               # Vector store for retrieval
+faiss-cpu==1.7.4               # Vector store for retrieval
 
 # ==== LLM Models & HuggingFace Integration ====
 transformers        # Model loading & pipelines
@@ -25,7 +25,3 @@ streamlit           # Chatbot web interface
 
 # ==== Optional: Local LLMs ====
 llama-cpp-python      # Local LLaMA/GGUF model support
-
-# ==== Others ====
-numpy             # Math operations
-
