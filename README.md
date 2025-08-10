@@ -30,23 +30,6 @@ This project leverages **FAISS** for vector search, **Sentence Transformers** fo
 
 ---
 
-## 📂 Project Structure  
-```bash
-IRCC_Chatbot/
-│── knowledge_base/ # Source documents (PDF/JSON)
-│── vector_store/ # FAISS index + metadata
-│── scraping_code/ # All the IRCC websracping code 
-│── scripts/
-│ ├── embed_documents.py # Builds vector DB from knowledge base
-│ ├── extract_text_from_json.py # Extract text from json file 
-│ ├── extract_text_from_pdfs.py # Extract text from pdf file 
-│── chatbot_rag.py # Main chatbot logic
-│── requirements.txt # Dependencies
-│── README.md # Project documentation
-```
-
----
-
 ## 🚀 Installation  
 
 1️⃣ **Clone the repository**  
@@ -71,7 +54,7 @@ python scripts/extract_text_from_pdf.py
 
 4️⃣ **Run the chatbot**
 ```bash 
-streamlit run chatbot_rag.py
+streamlit run src/streamlit_app.py
 ```
 
 ---
