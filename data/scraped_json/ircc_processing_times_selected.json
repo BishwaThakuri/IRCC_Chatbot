@@ -1,0 +1,2340 @@
+[
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Afghanistan",
+    "processing_time": "35 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Algeria",
+    "processing_time": "30 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Bangladesh",
+    "processing_time": "35 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Bhutan",
+    "processing_time": "30 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Brazil",
+    "processing_time": "48 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Colombia",
+    "processing_time": "48 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Egypt",
+    "processing_time": "32 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Ethiopia",
+    "processing_time": "49 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Ghana",
+    "processing_time": "57 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Haiti",
+    "processing_time": "65 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "India",
+    "processing_time": "77 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Indonesia",
+    "processing_time": "86 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Iran",
+    "processing_time": "16 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Iraq",
+    "processing_time": "29 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Jamaica",
+    "processing_time": "18 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Kenya",
+    "processing_time": "18 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Lebanon",
+    "processing_time": "36 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Malaysia",
+    "processing_time": "124 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Mexico",
+    "processing_time": "26 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Morocco",
+    "processing_time": "73 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Nepal",
+    "processing_time": "39 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Nigeria",
+    "processing_time": "43 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Pakistan",
+    "processing_time": "64 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Peru",
+    "processing_time": "64 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Philippines",
+    "processing_time": "21 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Russia",
+    "processing_time": "49 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Saudi Arabia",
+    "processing_time": "49 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "South Africa",
+    "processing_time": "39 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Sri Lanka",
+    "processing_time": "18 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Syria",
+    "processing_time": "31 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Thailand",
+    "processing_time": "29 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Tunisia",
+    "processing_time": "29 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Uganda",
+    "processing_time": "41 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Ukraine",
+    "processing_time": "552 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "United Arab Emirates",
+    "processing_time": "552 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Venezuela",
+    "processing_time": "15 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Vietnam",
+    "processing_time": "16 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from outside Canada)",
+    "country": "Yemen",
+    "processing_time": "98 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor visa (from inside Canada)",
+    "country": null,
+    "processing_time": "65 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Visitor extension (Visitor record)",
+    "country": null,
+    "processing_time": "14 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Afghanistan",
+    "processing_time": "217 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Algeria",
+    "processing_time": "217 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Bangladesh",
+    "processing_time": "65 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Bhutan",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Brazil",
+    "processing_time": "79 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Colombia",
+    "processing_time": "114 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Egypt",
+    "processing_time": "76 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Ethiopia",
+    "processing_time": "76 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Ghana",
+    "processing_time": "63 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Haiti",
+    "processing_time": "47 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "India",
+    "processing_time": "60 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Indonesia",
+    "processing_time": "60 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Iran",
+    "processing_time": "91 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Iraq",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Jamaica",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Kenya",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Lebanon",
+    "processing_time": "58 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Malaysia",
+    "processing_time": "60 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Mexico",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Morocco",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Nepal",
+    "processing_time": "84 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Nigeria",
+    "processing_time": "44 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Pakistan",
+    "processing_time": "59 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Peru",
+    "processing_time": "59 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Philippines",
+    "processing_time": "159 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Russia",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Saudi Arabia",
+    "processing_time": "99 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "South Africa",
+    "processing_time": "124 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Sri Lanka",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Syria",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Thailand",
+    "processing_time": "84 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Tunisia",
+    "processing_time": "432 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Uganda",
+    "processing_time": "432 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Ukraine",
+    "processing_time": "50 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "United Arab Emirates",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Venezuela",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Vietnam",
+    "processing_time": "303 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Super visa (parents or grandparents)",
+    "country": "Yemen",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Afghanistan",
+    "processing_time": "60 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Algeria",
+    "processing_time": "60 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Bangladesh",
+    "processing_time": "60 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Bhutan",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Brazil",
+    "processing_time": "4 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Colombia",
+    "processing_time": "4 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Egypt",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Ethiopia",
+    "processing_time": "6 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Ghana",
+    "processing_time": "7 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Haiti",
+    "processing_time": "5 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "India",
+    "processing_time": "3 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Indonesia",
+    "processing_time": "4 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Iran",
+    "processing_time": "3 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Iraq",
+    "processing_time": "3 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Jamaica",
+    "processing_time": "15 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Kenya",
+    "processing_time": "58 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Lebanon",
+    "processing_time": "4 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Malaysia",
+    "processing_time": "11 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Mexico",
+    "processing_time": "11 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Morocco",
+    "processing_time": "8 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Nepal",
+    "processing_time": "7 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Nigeria",
+    "processing_time": "9 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Pakistan",
+    "processing_time": "4 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Peru",
+    "processing_time": "4 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Philippines",
+    "processing_time": "5 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Russia",
+    "processing_time": "11 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Saudi Arabia",
+    "processing_time": "5 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "South Africa",
+    "processing_time": "6 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Sri Lanka",
+    "processing_time": "6 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Syria",
+    "processing_time": "12 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Thailand",
+    "processing_time": "5 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Tunisia",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Uganda",
+    "processing_time": "3 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Ukraine",
+    "processing_time": "8 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "United Arab Emirates",
+    "processing_time": "4 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Venezuela",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Vietnam",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from outside Canada)",
+    "country": "Yemen",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit (from inside Canada)",
+    "country": null,
+    "processing_time": "7 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Study permit extension",
+    "country": null,
+    "processing_time": "11 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Afghanistan",
+    "processing_time": "11 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Algeria",
+    "processing_time": "175 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Bangladesh",
+    "processing_time": "11 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Bhutan",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Brazil",
+    "processing_time": "8 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Colombia",
+    "processing_time": "7 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Egypt",
+    "processing_time": "10 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Ethiopia",
+    "processing_time": "8 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Ghana",
+    "processing_time": "21 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Haiti",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "India",
+    "processing_time": "10 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Indonesia",
+    "processing_time": "5 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Iran",
+    "processing_time": "5 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Iraq",
+    "processing_time": "4 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Jamaica",
+    "processing_time": "10 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Kenya",
+    "processing_time": "4 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Lebanon",
+    "processing_time": "6 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Malaysia",
+    "processing_time": "15 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Mexico",
+    "processing_time": "7 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Morocco",
+    "processing_time": "7 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Nepal",
+    "processing_time": "3 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Nigeria",
+    "processing_time": "11 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Pakistan",
+    "processing_time": "11 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Peru",
+    "processing_time": "4 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Philippines",
+    "processing_time": "9 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Russia",
+    "processing_time": "5 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Saudi Arabia",
+    "processing_time": "4 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "South Africa",
+    "processing_time": "6 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Sri Lanka",
+    "processing_time": "6 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Syria",
+    "processing_time": "153 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Thailand",
+    "processing_time": "153 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Tunisia",
+    "processing_time": "16 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Uganda",
+    "processing_time": "7 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Ukraine",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "United Arab Emirates",
+    "processing_time": "4 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Venezuela",
+    "processing_time": "4 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Vietnam",
+    "processing_time": "8 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit (from outside Canada)",
+    "country": "Yemen",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Work permit from inside Canada (initial and extension)",
+    "country": null,
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Seasonal Agricultural Worker Program (SAWP)",
+    "country": null,
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Temporary residence (visiting, studying, working)",
+    "subcategory": "Electronic Travel Authorization (eTA)",
+    "country": null,
+    "processing_time": "43 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Economic immigration",
+    "subcategory": "Atlantic Immigration Program",
+    "country": null,
+    "processing_time": "5 minutes",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Economic immigration",
+    "subcategory": "Canadian Experience Class",
+    "country": null,
+    "processing_time": "12 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Economic immigration",
+    "subcategory": "Self-employed persons (Federal)",
+    "country": null,
+    "processing_time": "5 months",
+    "last_updated": "June 5, 2025"
+  },
+  {
+    "category": "Economic immigration",
+    "subcategory": "Quebec Business Class",
+    "country": null,
+    "processing_time": "58 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Economic immigration",
+    "subcategory": "Skilled workers (Federal)",
+    "country": null,
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Economic immigration",
+    "subcategory": "Skilled trades (Federal)",
+    "country": null,
+    "processing_time": "6 months",
+    "last_updated": "June 5, 2025"
+  },
+  {
+    "category": "Economic immigration",
+    "subcategory": "Skilled workers (Quebec)",
+    "country": null,
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Economic immigration",
+    "subcategory": "Start-up visa",
+    "country": null,
+    "processing_time": "9 months",
+    "last_updated": "June 5, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Afghanistan",
+    "processing_time": "51 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Algeria",
+    "processing_time": "51 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Bangladesh",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Bhutan",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Brazil",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Colombia",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Egypt",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Ethiopia",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Ghana",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Haiti",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "India",
+    "processing_time": "19 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Indonesia",
+    "processing_time": "17 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Iran",
+    "processing_time": "31 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Iraq",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Jamaica",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Kenya",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Lebanon",
+    "processing_time": "11 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Malaysia",
+    "processing_time": "11 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Mexico",
+    "processing_time": "17 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Morocco",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Nepal",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Nigeria",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Pakistan",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Peru",
+    "processing_time": "16 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Philippines",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Russia",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Saudi Arabia",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "South Africa",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Sri Lanka",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Syria",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Thailand",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Tunisia",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Uganda",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Ukraine",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "United Arab Emirates",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Venezuela",
+    "processing_time": "26 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Vietnam",
+    "processing_time": "26 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Dependent child",
+    "country": "Yemen",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Afghanistan",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Algeria",
+    "processing_time": "No processing time available",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Bangladesh",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Bhutan",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Brazil",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Colombia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Egypt",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Ethiopia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Ghana",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Haiti",
+    "processing_time": "28 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "India",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Indonesia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Iran",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Iraq",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Jamaica",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Kenya",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Lebanon",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Malaysia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Mexico",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Morocco",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Nepal",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Nigeria",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Pakistan",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Peru",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Philippines",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Russia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Saudi Arabia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "South Africa",
+    "processing_time": "18 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Sri Lanka",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Syria",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Thailand",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Tunisia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Uganda",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Ukraine",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "United Arab Emirates",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Venezuela",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Vietnam",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Family sponsorship",
+    "subcategory": "Adopted child or other relative",
+    "country": "Yemen",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Afghanistan",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Algeria",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Bangladesh",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Bhutan",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Brazil",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Colombia",
+    "processing_time": "12 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Egypt",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Ethiopia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Ghana",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Haiti",
+    "processing_time": "13 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "India",
+    "processing_time": "14 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Indonesia",
+    "processing_time": "52 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Iran",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Iraq",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Jamaica",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Kenya",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Lebanon",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Malaysia",
+    "processing_time": "8 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Mexico",
+    "processing_time": "8 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Morocco",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Nepal",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Nigeria",
+    "processing_time": "10 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Pakistan",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Peru",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Philippines",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Russia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Saudi Arabia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "South Africa",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Sri Lanka",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Syria",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Thailand",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Tunisia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Uganda",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Ukraine",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "United Arab Emirates",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Venezuela",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Vietnam",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Government-assisted refugees",
+    "country": "Yemen",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Afghanistan",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Algeria",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Bangladesh",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Bhutan",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Brazil",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Colombia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Egypt",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Ethiopia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Ghana",
+    "processing_time": "25 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Haiti",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "India",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Indonesia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Iran",
+    "processing_time": "25 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Iraq",
+    "processing_time": "25 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Jamaica",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Kenya",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Lebanon",
+    "processing_time": "15 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Malaysia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Mexico",
+    "processing_time": "25 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Morocco",
+    "processing_time": "1 month",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Nepal",
+    "processing_time": "1 month",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Nigeria",
+    "processing_time": "25 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Pakistan",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Peru",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Philippines",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Russia",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Saudi Arabia",
+    "processing_time": "1 month",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "South Africa",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Sri Lanka",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Syria",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Thailand",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Tunisia",
+    "processing_time": "1 month",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Uganda",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Ukraine",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "United Arab Emirates",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Venezuela",
+    "processing_time": "25 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Vietnam",
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Privately sponsored refugees",
+    "country": "Yemen",
+    "processing_time": "6 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Refugees",
+    "subcategory": "Dependents of protected persons",
+    "country": null,
+    "processing_time": "6 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Humanitarian and compassionate cases",
+    "subcategory": "In Quebec",
+    "country": null,
+    "processing_time": "49 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Humanitarian and compassionate cases",
+    "subcategory": "Outside Quebec",
+    "country": null,
+    "processing_time": "50 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Citizenship",
+    "subcategory": "Citizenship grant",
+    "country": null,
+    "processing_time": "24 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Citizenship",
+    "subcategory": "Citizenship certificate (proof of citizenship)",
+    "country": null,
+    "processing_time": "10 months",
+    "last_updated": "June 5, 2025"
+  },
+  {
+    "category": "Citizenship",
+    "subcategory": "Resumption of citizenship",
+    "country": null,
+    "processing_time": "5 months",
+    "last_updated": "June 5, 2025"
+  },
+  {
+    "category": "Citizenship",
+    "subcategory": "Renunciation of citizenship",
+    "country": null,
+    "processing_time": "Not enough data",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Citizenship",
+    "subcategory": "Search of citizenship records",
+    "country": null,
+    "processing_time": "7 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Citizenship",
+    "subcategory": "Adoption",
+    "country": null,
+    "processing_time": "15 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Permanent resident cards",
+    "subcategory": "I’m renewing or replacing my card",
+    "country": null,
+    "processing_time": "Part 1: 6 months",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Permanent resident cards",
+    "subcategory": "I’m waiting for my first card",
+    "country": null,
+    "processing_time": "20 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Replacing or amending documents, verifying status",
+    "subcategory": "Verification of Status",
+    "country": null,
+    "processing_time": "48 days",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Replacing or amending documents, verifying status",
+    "subcategory": "Replacement of valid temporary resident documents",
+    "country": null,
+    "processing_time": "3 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Replacing or amending documents, verifying status",
+    "subcategory": "Amendments of immigration documents",
+    "country": null,
+    "processing_time": "2 weeks",
+    "last_updated": "July 16, 2025"
+  },
+  {
+    "category": "Replacing or amending documents, verifying status",
+    "subcategory": "Amendments of valid temporary resident documents",
+    "country": null,
+    "processing_time": "11 weeks",
+    "last_updated": "July 16, 2025"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "Fees": "Electronic Travel Authorization",
+    "$CAN": "7.00"
+  },
+  {
+    "Fees": "International Experience Canada fee",
+    "$CAN": "179.75"
+  },
+  {
+    "Fees": "Study permit (including extensions) â per person",
+    "$CAN": "150.00"
+  },
+  {
+    "Fees": "Restore your status as a studentRestore your status ($239.75) and a get a new study permit ($150)",
+    "$CAN": "389.75"
+  },
+  {
+    "Fees": "Temporary resident permit â per person",
+    "$CAN": "239.75"
+  },
+  {
+    "Fees": "Visitor visa - per personSingle or multiple entry temporary resident visaWhat's this?Single or multiple entry temporary resident visaThe same fee applies to both types of visas. Weâll decide which visa to give you based on your application.Find out more about the difference between single and multiple entry visas.",
+    "$CAN": "100.00"
+  },
+  {
+    "Fees": "Visitor visa â per family (1 fee per family of 5 or more people)Single or multiple entry temporary resident visaWhatâs this?; maximum fee for a family of 5 or more people applying at the same time and place",
+    "$CAN": "500.00"
+  },
+  {
+    "Fees": "Extend your stay as a visitor â per person",
+    "$CAN": "100.00"
+  },
+  {
+    "Fees": "Restore your status as a visitorVisa fee not needed",
+    "$CAN": "239.75"
+  },
+  {
+    "Fees": "Work permit (including extensions) â per person",
+    "$CAN": "155.00"
+  },
+  {
+    "Fees": "Work permit (including extensions) â per group (3 or more performing artists)Maximum fee for a group of 3 or more performing artists applying at the same time and place",
+    "$CAN": "465.00"
+  },
+  {
+    "Fees": "Open work permitholder",
+    "$CAN": "100.00"
+  },
+  {
+    "Fees": "Restore your status as a workerRestore your status ($239.75) and get a new work permit ($155)",
+    "$CAN": "394.75"
+  },
+  {
+    "Fees": "Your applicationProcessing fee ($1810) and right of permanent residence fee ($575)",
+    "$CAN": "2,385.00"
+  },
+  {
+    "Fees": "Your application (without right of permanent residence fee)",
+    "$CAN": "1,810.00"
+  },
+  {
+    "Fees": "Include your spouse or partnerProcessing fee ($950) and right of permanent residence fee ($575)",
+    "$CAN": "1,525.00"
+  },
+  {
+    "Fees": "Include your spouse or partner (without right of permanent residence fee)",
+    "$CAN": "950.00"
+  },
+  {
+    "Fees": "Include adependent child",
+    "$CAN": "260.00(per child)"
+  },
+  {
+    "Fees": "Your applicationProcessing fee ($950) and right of permanent residence fee ($575)",
+    "$CAN": "1,525.00"
+  },
+  {
+    "Fees": "Your application (without right of permanent residence fee)",
+    "$CAN": "950.00"
+  },
+  {
+    "Fees": "Include your spouse or partnerProcessing fee ($950) and right of permanent residence fee ($575)",
+    "$CAN": "1,525.00"
+  },
+  {
+    "Fees": "Include your spouse or partner (without right of permanent residence fee)",
+    "$CAN": "950.00"
+  },
+  {
+    "Fees": "Include adependent child",
+    "$CAN": "260.00(per child)"
+  },
+  {
+    "Fees": "Your applicationProcessing fee ($950) and right of permanent residence fee ($575)",
+    "$CAN": "1,525.00"
+  },
+  {
+    "Fees": "Your application (without right of permanent residence fee)",
+    "$CAN": "950.00"
+  },
+  {
+    "Fees": "Include your spouse or partnerProcessing fee ($950) and right of permanent residence fee ($575)",
+    "$CAN": "1,525.00"
+  },
+  {
+    "Fees": "Include your spouse or partner (without right of permanent residence fee)",
+    "$CAN": "950.00"
+  },
+  {
+    "Fees": "Include adependent child",
+    "$CAN": "260.00(per child)"
+  },
+  {
+    "Fees": "Your applicationProcessing fee ($635) and right of permanent residence fee ($575)",
+    "$CAN": "1,210.00"
+  },
+  {
+    "Fees": "Your application (without right of permanent residence fee)",
+    "$CAN": "635.00"
+  },
+  {
+    "Fees": "Include your spouse or partnerProcessing fee ($635) and right of permanent residence fee ($575)",
+    "$CAN": "1,210.00"
+  },
+  {
+    "Fees": "Include your spouse or partner without right of permanent residence fee",
+    "$CAN": "635.00"
+  },
+  {
+    "Fees": "Include adependent child",
+    "$CAN": "175.00(per child)"
+  },
+  {
+    "Fees": "Your applicationProcessing fee ($635) and right of permanent residence fee ($575)",
+    "$CAN": "1,210.00"
+  },
+  {
+    "Fees": "Your application (without right of permanent residence fee)",
+    "$CAN": "635.00"
+  },
+  {
+    "Fees": "Include your spouse or partnerProcessing fee ($635) and right of permanent residence fee ($575)",
+    "$CAN": "1,210.00"
+  },
+  {
+    "Fees": "Include your spouse or partner (without right of permanent residence fee)",
+    "$CAN": "635.00"
+  },
+  {
+    "Fees": "Include adependent child",
+    "$CAN": "175.00(per child)"
+  },
+  {
+    "Fees": "Permanent resident card",
+    "$CAN": "50.00"
+  },
+  {
+    "Fees": "Permanent resident travel document",
+    "$CAN": "50.00"
+  },
+  {
+    "Fees": "Your applicationProcessing fee ($375) and right of permanent residence fee ($575)",
+    "$CAN": "950.00"
+  },
+  {
+    "Fees": "Your application (without right of permanent residence fee)",
+    "$CAN": "375.00"
+  },
+  {
+    "Fees": "Your applicationProcessing fee ($635)",
+    "$CAN": "635.00"
+  },
+  {
+    "Fees": "Include your spouse or partnerProcessing fee ($635)",
+    "$CAN": "635.00"
+  },
+  {
+    "Fees": "Include adependent child",
+    "$CAN": "175.00(per child)"
+  },
+  {
+    "Fees": "Right of permanent residence fee",
+    "$CAN": "575.00"
+  },
+  {
+    "Fees": "Sponsor your relative (22 years or older)Sponsorship fee ($85), principal applicant processing fee ($545) and right of permanent residence fee ($575)",
+    "$CAN": "1,205.00"
+  },
+  {
+    "Fees": "Sponsor your relative (22 years or older without right of permanent residence fee)Sponsorship fee ($85) and principal applicant processing fee ($545)",
+    "$CAN": "630.00"
+  },
+  {
+    "Fees": "Sponsor adependent child, adopted child (or child to be adopted) or orphaned relativeSponsor only a dependent child ($85 sponsorship fee and $85 processing fee)",
+    "$CAN": "170.00(per child)"
+  },
+  {
+    "Fees": "Include a dependant, adopted child (or child to be adopted) or orphaned relative on an application with your relativeThe fee for including a dependent child in your family member's sponsorship application ($175)",
+    "$CAN": "175.00(per child)"
+  },
+  {
+    "Fees": "Sponsor your relative (under 22 years old and not your dependent child)Sponsorship fee ($85), principal applicant processing fee ($85) and right of permanent residence fee ($575)",
+    "$CAN": "745.00"
+  },
+  {
+    "Fees": "Sponsor your relative (under 22 years old and not yourdependent child, without right of permanent residence fee)Sponsorship fee ($85) and principal applicant processing fee ($85)",
+    "$CAN": "170.00"
+  },
+  {
+    "Fees": "Include the spouse or partner of your relativeProcessing fee ($635) and right of permanent residence fee ($575)",
+    "$CAN": "1,210.00"
+  },
+  {
+    "Fees": "Include the spouse or partner of your relative (without right of permanent residence fee)",
+    "$CAN": "635.00"
+  },
+  {
+    "Fees": "Sponsor your parent or grandparentSponsorship fee ($85), principal applicant processing fee ($545) and right of permanent residence fee ($575)",
+    "$CAN": "1,205.00"
+  },
+  {
+    "Fees": "Sponsor your parent or grandparent (without the right of permanent residence fee)Sponsorship fee ($85) and principal applicant processing fee ($545)",
+    "$CAN": "630.00"
+  },
+  {
+    "Fees": "Include the spouse or partner of your parent or grandparentProcessing fee ($635) and right of permanent residence fee ($575)",
+    "$CAN": "1,210.00"
+  },
+  {
+    "Fees": "Include the spouse or partner of your parent or grandparent (without the right of permanent residence fee)Processing fee ($635)",
+    "$CAN": "635.00"
+  },
+  {
+    "Fees": "Include adependent childof your parent or grandparent",
+    "$CAN": "175.00(per child)"
+  },
+  {
+    "Fees": "Sponsor your spouse or partnerSponsorship fee ($85), principal applicant processing fee ($545) and right of permanent residence fee ($575)",
+    "$CAN": "1,205.00"
+  },
+  {
+    "Fees": "Sponsor your spouse or partner without right of permanent residence feeSponsorship fee ($85) and principal applicant processing fee ($545)",
+    "$CAN": "630.00"
+  },
+  {
+    "Fees": "Include any dependent childInclude any dependent child on an application with your spouse or partner ($175)",
+    "$CAN": "175.00(per child)"
+  },
+  {
+    "Fees": "Independently sponsor adependent childSponsorship fee ($85) and processing fee ($85)",
+    "$CAN": "170.00(per child)"
+  },
+  {
+    "Fees": "Sponsor your spouse or partnerSponsorship fee ($85), principal applicant processing fee ($545) and right of permanent residence fee ($575)",
+    "$CAN": "1,205.00"
+  },
+  {
+    "Fees": "Sponsor your spouse or partner without right of permanent residence feeSponsorship fee ($85) and principal applicant processing fee ($545)",
+    "$CAN": "630.00"
+  },
+  {
+    "Fees": "Include any dependent childInclude any dependent child on an application with your spouse or partner ($175)",
+    "$CAN": "175.00(per child)"
+  },
+  {
+    "Fees": "Adult (18 and over)Processing fee ($530) and right of citizenship fee ($119.75)",
+    "$CAN": "649.75"
+  },
+  {
+    "Fees": "Stateless adult (18 or over) born to Canadian parentRight of citizenship fee ($119.75)",
+    "$CAN": "119.75"
+  },
+  {
+    "Fees": "Minor (under 18)Processing fee ($100)",
+    "$CAN": "100.00"
+  },
+  {
+    "Fees": "Citizenship certificate (proof of citizenship)",
+    "$CAN": "75.00"
+  },
+  {
+    "Fees": "Search for your record of citizenship",
+    "$CAN": "75.00"
+  },
+  {
+    "Fees": "Resume your citizenship (18 and over)",
+    "$CAN": "530.00"
+  },
+  {
+    "Fees": "Resume your citizenship (under 18)",
+    "$CAN": "100.00"
+  },
+  {
+    "Fees": "Renounce your citizenship",
+    "$CAN": "100.00"
+  },
+  {
+    "Fees": "Right of Citizenship",
+    "$CAN": "119.75"
+  },
+  {
+    "Fees": "Authorization to return to Canada",
+    "$CAN": "479.75"
+  },
+  {
+    "Fees": "Inadmissible on the grounds of criminality",
+    "$CAN": "239.75"
+  },
+  {
+    "Fees": "Inadmissible on the grounds of serious criminality",
+    "$CAN": "1,199.00"
+  },
+  {
+    "Fees": "Temporary resident permit â per person",
+    "$CAN": "239.75"
+  },
+  {
+    "Fees": "Biometrics – per individual",
+    "$CAN": "85.00"
+  },
+  {
+    "Fees": "Biometrics – per family of 2 or more eligible peopleMaximum fee for a family of 2 or more people applying at the same timeFamily members eligible for this fee areyourspouseorcommon-law partneryourdependent childrenand their dependent childrenCheck if your child is a dependant.",
+    "$CAN": "170.00"
+  },
+  {
+    "Fees": "Biometrics – per group of 3 or more performing artistsMaximum fee for a group of 3 or more performing artists applying for a work permit at the same time",
+    "$CAN": "255.00"
+  },
+  {
+    "Fees": "Employer compliance fee",
+    "$CAN": "230.00"
+  },
+  {
+    "Fees": "Employer compliance fee â group of entertainers (3 or more)",
+    "$CAN": "690.00"
+  },
+  {
+    "Fees": "Verify your status or replace an immigration document",
+    "$CAN": "30.00"
+  }
+]

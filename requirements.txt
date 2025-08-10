@@ -1,0 +1,31 @@
+# ==== PDF Processing ====
+PyMuPDF==1.23.9  # PDF text extraction
+
+# ==== Document Chunking & Utilities ====
+langchain==0.1.14  # Text splitting and chaining
+tqdm==4.66.2       # Progress bars
+
+# ==== Embeddings & Vector Store ====
+sentence-transformers==2.2.2  # Embeddings model
+faiss-cpu==1.7.4               # Vector store for retrieval
+
+# ==== LLM Models & HuggingFace Integration ====
+transformers==4.39.3           # Model loading & pipelines
+accelerate==0.28.0             # Optimized inference
+torch>=2.0.0                   # Required for transformer models
+langchain-huggingface==0.0.5   # HuggingFace wrapper for LangChain
+
+# ==== Web Scraping (Optional Future Enhancements) ====
+playwright==1.41.2             # Headless browser automation
+beautifulsoup4==4.12.3         # HTML parsing for scraping
+requests==2.31.0               # HTTP requests
+
+# ==== UI & Deployment ====
+streamlit==1.32.0              # Chatbot web interface
+
+# ==== Optional: Local LLMs ====
+llama-cpp-python==0.2.44       # Local LLaMA/GGUF model support
+
+# ==== Others ====
+numpy>=1.24.0                  # Math operations
+
