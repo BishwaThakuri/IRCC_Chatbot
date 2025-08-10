@@ -1,8 +1,8 @@
 # ==== PDF Processing ====
-PyMuPDF==1.23.9  # PDF text extraction
+PyMuPDF==1.24.4  # PDF text extraction
 
 # ==== Document Chunking & Utilities ====
-langchain==0.1.14  # Text splitting and chaining
+langchain  # Text splitting and chaining
 tqdm==4.66.2       # Progress bars
 
 # ==== Embeddings & Vector Store ====
@@ -13,7 +13,7 @@ faiss-cpu==1.7.4               # Vector store for retrieval
 transformers==4.39.3           # Model loading & pipelines
 accelerate==0.28.0             # Optimized inference
 torch>=2.0.0                   # Required for transformer models
-langchain-huggingface==0.0.5   # HuggingFace wrapper for LangChain
+langchain-huggingface   # HuggingFace wrapper for LangChain
 
 # ==== Web Scraping (Optional Future Enhancements) ====
 playwright==1.41.2             # Headless browser automation
